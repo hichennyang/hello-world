@@ -1,2 +1,4 @@
 # hello-world
-This is my first repository, just for trainning
+
+Hi, guys!
+I'am Tao Chengyang, my school is Xinjiang University!
